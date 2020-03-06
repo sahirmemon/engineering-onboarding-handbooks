@@ -105,9 +105,9 @@ Below you will find documentation that will help you gain quicker understanding 
 
 Starting a new job can be filled with the feeling of uncertainty. Below checklist is aimed at guiding you through your first week at Pager, and helping you keep track of all the things that need to happen during this important period. 
 
-**General meetings:**\
-- [ ] IT Orientation with Mike Bogart\
-- [ ] Security Orientation with Alexander Miller\
+**General meetings:**
+- [ ] IT Orientation with Mike Bogart
+- [ ] Security Orientation with Alexander Miller
 - [ ] Pager Orientation with Ryon Burell 
 
 **Frontend specific meetings:**
