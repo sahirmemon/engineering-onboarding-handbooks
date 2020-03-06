@@ -2,7 +2,7 @@
 
 ### Welcome & Introductions
 
-We would like to welcome you to Pager Inc. The purpose of this Onboarding handbook is to provide you with comprehensive guidance and direction during your onboarding, familiarize you with Pager Inc. systems, designate a coding buddy, and generally set you up for success.
+We would like to welcome you to Pager Inc. The purpose of this onboarding handbook is to provide you with comprehensive guidance and direction during your onboarding, familiarize you with Pager Inc. systems, designate a coding buddy, and generally set you up for success.
 
 ### Team Structure at Pager
 
@@ -13,7 +13,7 @@ Consumer (CS) - Mobile/Web SDK\
 Professional Services Squad (PSS) - Client liaison & client feature development\
 Platform (PS) - Infrastructure
 
-With the exception of platform squad, each squad contains engineers from frontend (web and/or mobile), backend, machine learning/data as well as QA. Here is the [org chart](https://docs.google.com/drawings/d/14hRZNhhM9m**t88lR9jOoqDkvewiQDf3Rc0wW7n3iyDI/edit) for our squads. 
+With the exception of platform squad, each squad contains engineers from frontend (web and/or mobile), backend, machine learning/data as well as QA. Here is the [org chart](https://docs.google.com/drawings/d/14hRZNhhM9m_t88lR9jOoqDkvewiQDf3Rc0wW7n3iyDI/edit) for our squads. 
 If interested, see [this medium article](https://medium.com/scaled-agile-framework/exploring-key-elements-of-spotifys-agile-scaling-model-471d2a23d7ea) for more information about squad structure. 
 
 During your first week, you will be meeting your team members, as well as team leads, who will provide you with important overview of their respective areas of expertise. 
@@ -38,7 +38,7 @@ Fabian will provide you with an overview of Android and iOS applications, as wel
 Jeremiah will provide you with a high level overview of Pager’s infrastructure, environments and platform tools as they pertain to software engineering. This is a great opportunity for you to understand the operational environment that you will be placed in.
 
 **QA Manager:** Jesmin Aktar\
-Jesmin will introduce you to her team members, as well as go over the QA process. This is an excellent opportunity to make some friends in the QA team. 
+Jesmin will introduce you to her team membeoors, as well as go over the QA process. This is an excellent opportunity to make some friends in the QA team. 
 
 **Director of engineering:** Shay Weiss\
 Introductory meeting with Shay Weis. Shay will provide you with information about engineering vision and get to know you a little better.
@@ -53,7 +53,7 @@ Main frontend product repos:\
 [Web Widget](https://github.com/pagerinc/web-sdk-widget): The web widget UI client for Pager, using the Pager SDK Core\
 [Pager UI Kit](https://github.com/pagerinc/pager-ui-kit): Reusable component library, consumed primarily by Enterprise Admin
 
-All frontend repos are prefixed with **Web**. Ancillary repos supporting our main products and documentation can be found within Pager github by searching the keyword ‘Web’. If you have any quesitons about a specific app, you can reach out to the owner of the app listed here. 
+All frontend repos are prefixed with `Web`. Ancillary repos supporting our main products and documentation can be found within Pager github by searching the keyword ‘Web’. If you have any quesitons about a specific app, you can reach out to the owner of the app listed here. 
 
 ### Tools and Processes
 
@@ -105,10 +105,10 @@ Below you will find documentation that will help you gain quicker understanding 
 
 Starting a new job can be filled with the feeling of uncertainty. Below checklist is aimed at guiding you through your first week at Pager, and helping you keep track of all the things that need to happen during this important period. 
 
-**General meetings:**
-IT Orientation with Mike Bogart
-Security Orientation with Alexander Miller
-Pager Orientation with Ryon Burell 
+**General meetings:**\
+- [ ] IT Orientation with Mike Bogart\
+- [ ] Security Orientation with Alexander Miller\
+- [ ] Pager Orientation with Ryon Burell 
 
 **Frontend specific meetings:**
 - [ ] Meet your Manager
@@ -138,7 +138,7 @@ Pager Orientation with Ryon Burell
     - [ ] MixPanel
     - [ ] PagerDuty (Terraform managed)
 - [ ] Review frontend specific documentation
-- [ ] Download example pager app on your device
+- [ ] Download example pager app on your device (Reach out to mobile lead Fabian Celdeiro for instructions)
 - [ ] Compile a document with questions that you have
 - [ ] Make an improvement to the onboarding documentation
 
