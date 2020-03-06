@@ -61,28 +61,28 @@ At pager we use a number of tools that help us keep track of our work, documenta
 
 Please make sure to enable 2FA where available.
 
-**Jira and Confluence:** <https://pagerinc.atlassian.net> 
+**Jira and Confluence:** <https://pagerinc.atlassian.net>\
 Use your Pager gmail account to login.
 
-**GoogleCloud Dashboard:** <https://console.cloud.google.com> 
+**GoogleCloud Dashboard:** <https://console.cloud.google.com>\
 Use your Pager gmail account to login.
 
-**Sentry:** <https://sentry.pager.com/auth/login/pager/>
+**Sentry:** <https://sentry.pager.com/auth/login/pager/>\
 Follow instructions in the invitation email to set up your password. Please make sure to set up two factor authentication.
 
-**NewRelic:** <https://login.newrelic.com/>
+**NewRelic:** <https://login.newrelic.com/>\
 Follow instructions in the invitation email to set up your password.
 
-**SumoLogic:** <https://service.sumologic.com/ui/>
+**SumoLogic:** <https://service.sumologic.com/ui/>\
 Follow instructions in the invitation email to set up your password. Please make sure to set up two factor authentication.
 
-**MixPanel:** <https://mixpanel.com/>
+**MixPanel:** <https://mixpanel.com/>\
 Follow instructions in the invitation email to set up your password.
 
-**PagerDuty:** <https://pagerinc.pagerduty.com/>
+**PagerDuty:** <https://pagerinc.pagerduty.com/>\
 Use your Pager credentials to login.
 
-**Github:** <https://github.com>
+**Github:** <https://github.com>\
 You will need to create a new github account tied to your pager.com email.
 
 ### Documentation
