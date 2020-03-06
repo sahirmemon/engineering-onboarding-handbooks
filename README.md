@@ -7,7 +7,7 @@ We would like to welcome you to Pager Inc. The purpose of this Onboarding handbo
 ### Team Structure at Pager
 
 Pager engineering consists of five squads, most of them specializing in a different Pager product: 
-Enterprise Users (UE) - Command Center
+Enterprise Users (UE) - Co                      mmand Center
 Enterprise Management (ME) - Enterprise Admin
 Consumer (CS) - Mobile/Web SDK
 Professional Services Squad (PSS) - Client liaison & client feature development
@@ -60,7 +60,7 @@ All frontend repos are prefixed with Web. Ancillary repos supporting our main pr
 At pager we use a number of tools that help us keep track of our work, documentation, application metrics and logs. This section lists those tools, and how to access them.
 
 Please make sure to enable 2FA where available.
-Tools
+
 **Jira and Confluence:** <https://pagerinc.atlassian.net> 
 Use your Pager gmail account to login.
 
@@ -111,36 +111,36 @@ Security Orientation with Alexander Miller
 Pager Orientation with Ryon Burell 
 
 **Frontend specific meetings:**
-Meet your Manager
-Meet your Coding Buddy
-Command Center shadowing
-Partake in web-weekly and demo (Friday 11am - 12pm)
-End of the first week meeting with your manager
+- [ ] Meet your Manager
+- [ ] Meet your Coding Buddy
+- [ ] Command Center shadowing
+- [ ] Partake in web-weekly and demo (Friday 11am - 12pm)
+- [ ] End of the first week meeting with your manager
 
 **Non-frontend specific meetings:**
-Platform overview with Jeremiah Bowen [self-scheduled]
-Application architecture overview with Ryan Hall [self-scheduled]
-Mobile applications overview with Fabian Celdeiro [self-scheduled]
-Introduction to QA Team with Jesmin Aktar [self-scheduled]
-Sprint Planning meeting
-Sprint Retrospective meeting
+- [ ] Platform overview with Jeremiah Bowen [self-scheduled]
+- [ ] Application architecture overview with Ryan Hall [self-scheduled]
+- [ ] Mobile applications overview with Fabian Celdeiro [self-scheduled]
+- [ ] Introduction to QA Team with Jesmin Aktar [self-scheduled]
+- [ ] Sprint Planning meeting
+- [ ] Sprint Retrospective meeting
 
 **Action items:**
-Set up NPM account and get access to Pager org.
-Set up local environments
-Get access to:
-Jira
-GitHub
-GoogleCloud dashboard (Terraform managed, at least `Viewer` role)
-Sentry
-NewRelic
-SumoLogic
-MixPanel
-PagerDuty (Terraform managed)
-Review frontend specific documentation
-Download example pager app on your device
-Compile a document with questions that you have
-Make an improvement to the onboarding documentation
+- [ ] Set up NPM account and get access to Pager org.
+- [ ] Set up local environments
+- [ ] Get access to:
+    - [ ] Jira
+    - [ ] GitHub
+    - [ ] GoogleCloud dashboard (Terraform managed, at least `Viewer` role)
+    - [ ] Sentry
+    - [ ] NewRelic
+    - [ ] SumoLogic
+    - [ ] MixPanel
+    - [ ] PagerDuty (Terraform managed)
+- [ ] Review frontend specific documentation
+- [ ] Download example pager app on your device
+- [ ] Compile a document with questions that you have
+- [ ] Make an improvement to the onboarding documentation
 
 We are excited that you are joining our team, and wish to provide you with an easy and productive onboarding experience. Should you encounter any questions or difficulties at any time, do not hesitate to reach out to your direct manager or designated coding buddy. We are here to help!
 
