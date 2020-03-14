@@ -116,6 +116,7 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
     - [ ] SumoLogic
     - [ ] MixPanel
     - [ ] PagerDuty (Terraform managed)
+- [ ] Setup LastPass
 - [ ] Review frontend specific documentation
 - [ ] Download example pager app on your device (Reach out to mobile lead Fabian Celdeiro for instructions)
 - [ ] Compile a document with questions that you have
@@ -127,6 +128,7 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
     - [ ] #eng-war-room
     - [ ] #skunkworks
     - [ ] #product-bugs
+    - [ ] #eng-announcements
     - [ ] #engineering
     - [ ] #engineering-product
     - [ ] #status
