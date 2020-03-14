@@ -6,12 +6,15 @@ We would like to welcome you to Pager Inc. The purpose of this onboarding handbo
 
 ### Team Structure at Pager
 
-Pager engineering consists of five squads, most of them specializing in a different Pager product:\
-Enterprise Users (UE) - Command Center\
-Enterprise Management (ME) - Enterprise Admin\
-Consumer (CS) - Mobile/Web SDK\
-Professional Services Squad (PSS) - Client liaison & client feature development\
-Platform (PS) - Infrastructure
+Pager engineering consists of five squads, most of them specializing in a different Pager product:
+
+| Squad Name | Slack Channel | Email distro | JIRA Board |
+| ----- | ------ | ---- | ---- |
+| Management Enterprise (ME) | #squad-management-enterprise | squad-management-enterprise@pager.com | [ME backlog](https://pagerinc.atlassian.net/secure/RapidBoard.jspa?rapidView=64&projectKey=ME&view=planning.nodetail&issueLimit=100) |
+| Consumer Squad (CS) | #squad-consumer | squad-consumer@pager.com | [CS backlog](https://pagerinc.atlassian.net/secure/RapidBoard.jspa?rapidView=49&view=planning.nodetail&issueLimit=100) |    
+| Users Enterprise (UE) | #squad-users-enterprise | squad-users-enterprise@pager.com | [UE backlog](https://pagerinc.atlassian.net/secure/RapidBoard.jspa?rapidView=79&projectKey=UE&view=planning&selectedIssue=UE-912&epics=visible&issueLimit=100) |    
+| Professional Services Squad (PSS) | #squad-professional-services | squad-professional-services@pager.com | [PSS backlog](https://pagerinc.atlassian.net/secure/RapidBoard.jspa?rapidView=87&projectKey=PSS&view=planning&selectedIssue=PSS-18&issueLimit=100) |
+| Platform Squad (PS) | #squad-platform | squad-platform@pager.com | [PS backlog](https://pagerinc.atlassian.net/secure/RapidBoard.jspa?rapidView=59&projectKey=PS&view=planning.nodetail&selectedIssue=PS-674&issueLimit=100) |
 
 With the exception of platform squad, each squad contains engineers from frontend (web and/or mobile), backend, machine learning/data as well as QA. Here is the [org chart](https://docs.google.com/drawings/d/14hRZNhhM9m_t88lR9jOoqDkvewiQDf3Rc0wW7n3iyDI/edit) for our squads.
 If interested, see [this medium article](https://medium.com/scaled-agile-framework/exploring-key-elements-of-spotifys-agile-scaling-model-471d2a23d7ea) for more information about squad structure.
@@ -117,6 +120,19 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
 - [ ] Download example pager app on your device (Reach out to mobile lead Fabian Celdeiro for instructions)
 - [ ] Compile a document with questions that you have
 - [ ] Make an improvement to the onboarding documentation
+- [ ] Join the following Slack channels:
+    - [ ] #chapter-backend
+    - [ ] #squad-{{your squad's name}} (i.e. #squad-consumer)
+    - [ ] #squad-mayday-{{your squad's name}} (i.e. #squad-mayday-consumer)
+    - [ ] #eng-war-room
+    - [ ] #skunkworks
+    - [ ] #product-bugs
+    - [ ] #engineering
+    - [ ] #engineering-product
+    - [ ] #status
+    - [ ] #releases
+    - [ ] #nyc-office
+
 
 We are excited that you are joining our team, and wish to provide you with an easy and productive onboarding experience. Should you encounter any questions or difficulties at any time, do not hesitate to reach out to your direct manager or designated coding buddy. We are here to help!
 
