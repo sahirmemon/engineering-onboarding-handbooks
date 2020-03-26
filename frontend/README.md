@@ -121,14 +121,13 @@ There are various levels of environments used in Pager for development, testing,
 **LL (Lower Level Environments) - QA and Staging**
 {{client abbreviation}}-{{environment level}}-command-center.pagerinc.com
 - e.g: 
-    - https://pgr-stage-command-center.pagerinc.com/
-    - https://hrz-stage-command-center.pagerinc.com/
-    - https://sra-qa-command-center.pagerinc.com/
+    - https://pgr-stage-command-center.pagerinc.com/ [found here](https://pgr-stage-command-center.pagerinc.com/)
+    - https://hrz-stage-command-center.pagerinc.com/ [found here](https://hrz-stage-command-center.pagerinc.com/)
 
 **Production Level URLs**
-- https://sra-command-center.pager.com/
-- https://command-center.pager.com/
-- https://hrz-command-center.pager.com/
+- https://sra-command-center.pager.com/ [found here](https://sra-command-center.pager.com/)
+- https://command-center.pager.com/ [found here](https://command-center.pager.com/)
+- https://hrz-command-center.pager.com/ [found here](https://hrz-command-center.pager.com/)
 
 ### Front End Development and QA Workflow
 For any Frontend user story being worked on, the engineer needs to make a local branch off of the Develop branch. Branch names related to JIRA tickets should use the following naming convention: {{Story number}}_{{short description}} (i.e. UE-932_refactor). All changes should be made on local branch and then committed to the their remote branch on github. Then, a Pull Request should be made, which will trigger the CI/CD checks to run. PR links should be posted in the #web-chapter slack channel for review. Once the appropriate amount of approvals are given and the CI/CD checks pass, QA should be notified that the story pertaining to the PR is ready to test. Requests for testing should be posted in the #squad-qa slack channel. Once the story passes QA, the PR is ready to be merged into the develop branch.
