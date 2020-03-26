@@ -85,6 +85,54 @@ Use your Pager credentials to login.
 **Github:** <https://github.com>\
 You will need to create a new github account tied to your pager.com email.
 
+### Slack Channels
+At Pager, we use Slack as our instant messaging communications tool. There are a number of slack channels designated for specific purposes, including but not limited to the following: 
+
+**web-chapter:** 
+Channel dedicated to all things web-related. All web teams utilize this channel for news, posting Pull Requests for review, etc.
+
+**general:**
+Miscellaneous channel for sharing general announcements, non-work related posts, articles, memes, or other fun or informative topics not related to any specific area of Pager.
+
+**squad-{{team name here}}**
+All teams have their own slack channels for sharing team related communcation, meeting invites, news, etc. that start with the word "squad" followed by a hyphen and the team name. 
+
+**skunkworks:**
+Channel dedicated to the platform team and things related to Pager's build processes and CI/CD tools.
+
+**nyc-office:**
+Channel dedicated to discussing all things related to Pager's NYC office, including office news, events, closures, building maintenance items, and other information relevant to onsite employees in NYC.
+
+**engineering-product:**
+Channel for general announcements for the engineering and product teams. This is where work from home requests and other availability notifications are communicated to the team at large. 
+
+**mayday:**
+Channel where incidents from Sentry and PagerDuty are posted to track escalation and resolution.
+
+**product-bugs:**
+Channel to post and track production bugs
+
+**random:**
+Channel to post random things!
+
+### Command Center Environment URLs
+There are various levels of environments used in Pager for development, testing, and production. The environment levels, from lowest to highest, are qa, staging, and production. There are also three different client versions of the site dependent on which client the site is being used for, each having their own abbreviation. Sura is abbreviated as "sra", Horizon as "hrz", and a multi-tenant client abbreviated "pgr". Pgr is a generic version used by a variety of clients. The url structure for each of these environments are as follows: 
+
+**LL (Lower Level Environments) - QA and Staging**
+{{client abbreviation}}-{{environment level}}-command-center.pagerinc.com
+- e.g: 
+    - https://pgr-stage-command-center.pagerinc.com/
+    - https://hrz-stage-command-center.pagerinc.com/
+    - https://sra-qa-command-center.pagerinc.com/
+
+**Production Level URLs**
+- https://sra-command-center.pager.com/
+- https://command-center.pager.com/
+- https://hrz-command-center.pager.com/
+
+### Front End Development and QA Workflow
+For any Frontend user story being worked on, the engineer needs to make a local branch off of the Develop branch. Branch names related to JIRA tickets should use the following naming convention: {{Story number}}_{{short description}} (i.e. UE-932_refactor). All changes should be made on local branch and then committed to the their remote branch on github. Then, a Pull Request should be made, which will trigger the CI/CD checks to run. PR links should be posted in the #web-chapter slack channel for review. Once the appropriate amount of approvals are given and the CI/CD checks pass, QA should be notified that the story pertaining to the PR is ready to test. Requests for testing should be posted in the #squad-qa slack channel. Once the story passes QA, the PR is ready to be merged into the develop branch.
+
 ### Documentation
 Below you will find documentation that will help you gain quicker understanding about Pager, and how things are organized. If you have any questions, comments, or ideas please feel free to comment on the confluence documents, this will help us make the documentation better!
 
