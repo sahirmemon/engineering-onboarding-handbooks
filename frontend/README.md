@@ -115,6 +115,9 @@ Channel to post and track production bugs
 **random:**
 Channel to post random things!
 
+**eng-war-room:**
+Channel used to post critical emergencies and other urgent communication. Team members should have alerts for this channel on at all times.
+
 ### Command Center Environment URLs
 There are various levels of environments used in Pager for development, testing, and production. The environment levels, from lowest to highest, are qa, staging, and production. There are also three different client versions of the site dependent on which client the site is being used for, each having their own abbreviation. Sura is abbreviated as "sra", Horizon as "hrz", and a multi-tenant client abbreviated "pgr". Pgr is a generic version used by a variety of clients. The url structure for each of these environments are as follows: 
 
@@ -128,6 +131,7 @@ There are various levels of environments used in Pager for development, testing,
 - https://sra-command-center.pager.com/ [found here](https://sra-command-center.pager.com/)
 - https://command-center.pager.com/ [found here](https://command-center.pager.com/)
 - https://hrz-command-center.pager.com/ [found here](https://hrz-command-center.pager.com/)
+- https://pgr-rr-command-center.pager.com/v [found here](https://pgr-rr-command-center.pager.com/)
 
 ### Front End Development and QA Workflow
 For any Frontend user story being worked on, the engineer needs to make a local branch off of the Develop branch. Branch names related to JIRA tickets should use the following naming convention: {{Story number}}_{{short description}} (i.e. UE-932_refactor). All changes should be made on local branch and then committed to the their remote branch on github. Then, a Pull Request should be made, which will trigger the CI/CD checks to run. PR links should be posted in the #web-chapter slack channel for review. Once the appropriate amount of approvals are given and the CI/CD checks pass, QA should be notified that the story pertaining to the PR is ready to test. Requests for testing should be posted in the #squad-qa slack channel. Once the story passes QA, the PR is ready to be merged into the develop branch.
