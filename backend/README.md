@@ -115,7 +115,7 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
     - [ ] NewRelic
     - [ ] SumoLogic
     - [ ] MixPanel
-    - [ ] PagerDuty (Terraform managed)
+    - [ ] PagerDuty
 - [ ] Setup LastPass
 - [ ] Review frontend specific documentation
 - [ ] Download example pager app on your device (Reach out to mobile lead Fabian Celdeiro for instructions)
