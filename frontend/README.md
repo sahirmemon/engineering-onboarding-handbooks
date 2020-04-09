@@ -157,7 +157,7 @@ Below you will find documentation that will help you gain quicker understanding 
 Starting a new job can be filled with the feeling of uncertainty. Below checklist is aimed at guiding you through your first week at Pager, and helping you keep track of all the things that need to happen during this important period. 
 
 **General meetings:**
-- [ ] IT Orientation with Mike Bogart
+- [ ] IT Orientation with Erika Williams
 - [ ] Security Orientation with Alexander Miller
 - [ ] Pager Orientation with Ryon Burell 
 
@@ -179,10 +179,10 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
 **Action items:**
 - [ ] Set up NPM account and get access to Pager org.
 - [ ] Set up local environments
-- [ ] Get access to:
+- [ ] Get access to (ask any manager in Engineering):
     - [ ] Jira
     - [ ] GitHub
-    - [ ] GoogleCloud dashboard (Terraform managed, at least `Viewer` role)
+    - [ ] GoogleCloud dashboard (Terraform managed, create a PR for the right team [here](https://github.com/pagerinc/infra/blob/d6da5570959a23a27fec32d22a17bd8387a8c67d/modules/teams/main.tf))
     - [ ] Sentry
     - [ ] NewRelic
     - [ ] SumoLogic
