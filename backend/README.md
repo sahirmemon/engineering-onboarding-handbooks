@@ -107,16 +107,16 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
 **Action items:**
 - [ ] Set up NPM account and get access to Pager org.
 - [ ] Set up local environments
-- [ ] Get access to:
+- [ ] Get access to (ask any manager in Engineering):
     - [ ] Jira
     - [ ] GitHub
-    - [ ] GoogleCloud dashboard (Terraform managed, at least `Viewer` role)
+    - [ ] GoogleCloud dashboard (Terraform managed, create a PR for the right team [here](https://github.com/pagerinc/infra/blob/d6da5570959a23a27fec32d22a17bd8387a8c67d/modules/teams/main.tf))
     - [ ] Sentry
     - [ ] NewRelic
     - [ ] SumoLogic
     - [ ] MixPanel
     - [ ] PagerDuty
-- [ ] Setup LastPass
+- [ ] Setup LastPass (IT)
 - [ ] Review frontend specific documentation
 - [ ] Download example pager app on your device (Reach out to mobile lead Fabian Celdeiro for instructions)
 - [ ] Compile a document with questions that you have
