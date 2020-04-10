@@ -105,7 +105,7 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
 - [ ] Sprint Retrospective meeting
 
 **Action items:**
-- [ ] Set up NPM account and get access to Pager org.
+- [ ] Set up NPM account and get access to Pager org (enable 2FA for Authorization and Publishing).
 - [ ] Set up local environments
 - [ ] Get access to (ask any manager in Engineering):
     - [ ] Jira
