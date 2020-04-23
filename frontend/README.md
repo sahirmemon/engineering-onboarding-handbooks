@@ -24,6 +24,8 @@ One of the key figures during your first few weeks is your coding buddy. Your co
 **Your Direct Manager:** [Insert name]\
 Your manager will meet with you on your first day to welcome you to Pager, get to know you, understand your personal and professional goals. The purpose of the first meeting is to introduce you to this document, and set initial expectations. You will have a second meeting with your manager at the end of your first week, to check-in on your onboarding progress and introduce you to your 30-60-90 day plan.
 
+**Designer:** Merry Chen\
+Merry Chen is the company designer. As a frontend developer the interaction with the design team is a must.
 
 **Frontend Lead:** Mi Ji Kim\
 Mi Ji will introduce you to our frontend code, talk about applications such as Command Center and Enterprise Admin. This is an opportunity for you to better understand one of the central applications of our ecosystem and how it ties in with the various backend services. 
@@ -133,8 +135,20 @@ There are various levels of environments used in Pager for development, testing,
 - https://hrz-command-center.pager.com/ [found here](https://hrz-command-center.pager.com/)
 - https://pgr-rr-command-center.pager.com/v [found here](https://pgr-rr-command-center.pager.com/)
 
+**Confluence**
+ [This gathers information](https://pagerinc.atlassian.net/wiki/spaces/PRODUCT/pages/605421622/Hands+on+Pager+s+product) on how to install and use several parts of Pager’s product.
+
 ### Front End Development and QA Workflow
 For any Frontend user story being worked on, the engineer needs to make a local branch off of the Develop branch. Branch names related to JIRA tickets should use the following naming convention: {{Story number}}_{{short description}} (i.e. UE-932_refactor). All changes should be made on local branch and then committed to their remote branch on github. Then, a Pull Request should be made, which will trigger the CI/CD checks to run. PR links should be posted in the #web-chapter slack channel for review. Once the appropriate amount of approvals are given and the CI/CD checks pass, QA should be notified that the story pertaining to the PR is ready to test. Requests for testing should be posted in the #squad-qa slack channel. Once the story passes QA, the PR is ready to be merged into the develop branch.
+
+### System requirements to start the development server
+
+1. node: greater than 10.0.0 and less than 12.16.2
+It’s recommend the use of [nvm](https://github.com/nvm-sh/nvm)
+
+2. Inside your code editor
+- [esLint](https://eslint.org/)
+- [prettier](https://prettier.io/)
 
 ### Documentation
 Below you will find documentation that will help you gain quicker understanding about Pager, and how things are organized. If you have any questions, comments, or ideas please feel free to comment on the confluence documents, this will help us make the documentation better!
@@ -144,6 +158,7 @@ Below you will find documentation that will help you gain quicker understanding 
 [How to release code](https://pagerinc.atlassian.net/wiki/spaces/EN/pages/280068238/How+to+release+code+-+Frontend+Web+deployment+process): frontend specific release process\
 [How to publish & access privately scoped modules](https://pagerinc.atlassian.net/wiki/spaces/EN/pages/140935943/How+to+publish+access+privately+scoped+modules): Guideline to publish latest code to npm\
 [Folder for all architecture decisions (RFCs)](https://pagerinc.atlassian.net/wiki/spaces/EN/pages/245399689/Architecture+Design+Decisions)
+[How to set up the local environment](https://pagerinc.atlassian.net/wiki/spaces/EN/pages/650477570/How+to+set+up+the+local+environment)
 
 **Non frontend specific:**\
 [Release management](https://pagerinc.atlassian.net/wiki/spaces/EN/pages/227180588/Release+Management): overview of Pager’s release process\
@@ -165,7 +180,7 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
 - [ ] Meet your Manager
 - [ ] Meet your Coding Buddy
 - [ ] Command Center shadowing
-- [ ] Partake in web-weekly and demo (Friday 11am - 12pm)
+- [ ] Partake in web-weekly and demo (Friday 11am - 12pm EST)
 - [ ] End of the first week meeting with your manager
 
 **Non-frontend specific meetings:**
