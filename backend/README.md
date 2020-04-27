@@ -21,11 +21,11 @@ If interested, see [this medium article](https://medium.com/scaled-agile-framewo
 
 During your first week, you will be meeting your team members, as well as team leads, who will provide you with important overview of their respective areas of expertise.
 
+**Your Direct Manager:** [Insert name]\
+Your manager will meet with you on your first day to welcome you to Pager, get to know you, understand your personal and professional goals. The purpose of the first meeting is to introduce you to this document, and set initial expectations. We value you and your experience at Pager. We plan to do everything at our disposal to help you grow  as you help grow us. Your manager will walk you through the [Engineering Career Ladder](https://docs.google.com/drawings/d/13-xyAbH8qmyRwgQu7hKC-5cnS6VUcb4pmUiMVIeKbYY) and your respective [Individual Contributor Performance Ruberic](https://docs.google.com/spreadsheets/d/1yoCXujJQ07FcHjKGPYO10RJM9nDKRyD9VLeJGpsZgGM/edit?usp=sharing0). You will have a second meeting with your manager at the end of your first week, to check-in on your onboarding progress and introduce you to your [30-60-90](https://docs.google.com/spreadsheets/d/1gQHA8cq6R8VS-mKz2Qe2OwoRHE8hGOsJPph4h9x9EfQ/edit?usp=sharing) day plan. Once you and your manager go through these you will also set up your weekly one on ones. 
+
 **Coding Buddy:** [Insert name]\
 One of the key figures during your first few weeks is your coding buddy. Your coding buddy will be your initial source of information about various systems, tools and practices at Pager. In addition to being your go-to person for code related questions, you can expect your coding buddy to help you pick up your first coding assignments. This will help you dive into coding as quickly as possible, without overwhelming you.
-
-**Your Direct Manager:** [Insert name]\
-Your manager will meet with you on your first day to welcome you to Pager, get to know you, understand your personal and professional goals. The purpose of the first meeting is to introduce you to this document, and set initial expectations. You will have a second meeting with your manager at the end of your first week, to check-in on your onboarding progress and introduce you to your [30-60-90](https://docs.google.com/spreadsheets/d/1gQHA8cq6R8VS-mKz2Qe2OwoRHE8hGOsJPph4h9x9EfQ/edit?usp=sharing) day plan.
 
 **Frontend Lead:** Mi Ji Kim\
 Mi Ji will introduce you to our frontend code, talk about applications such as Command Center and Enterprise Admin. This is an opportunity for you to better understand one of the central applications of our ecosystem and how it ties in with the various backend services.
@@ -42,7 +42,7 @@ Jeremiah will provide you with a high level overview of Pager’s infrastructure
 **QA Manager:** Jesmin Aktar\
 Jesmin will introduce you to her team membeoors, as well as go over the QA process. This is an excellent opportunity to make some friends in the QA team.
 
-**Director of engineering:** Shay Weiss\
+**Director of Engineering:** Shay Weiss\
 Introductory meeting with Shay Weis. Shay will provide you with information about engineering vision and get to know you a little better.
 
 ### Tools and Processes
@@ -78,6 +78,7 @@ You will need to create a new github account tied to your pager.com email.
 ### Documentation
 Below you will find documentation that will help you gain quicker understanding about Pager, and how things are organized. If you have any questions, comments, or ideas please feel free to comment on the confluence documents, this will help us make the documentation better!
 
+[Pager Technology Overview](https://docs.google.com/presentation/d/1cPI4CoKAFByFV_KG2-F-eg1F6ZytK9iSaeSYDPL4Y6w)
 [Release management](https://pagerinc.atlassian.net/wiki/spaces/EN/pages/227180588/Release+Management): overview of Pager’s release process\
 [Tech talks and training](https://pagerinc.atlassian.net/wiki/spaces/EN/pages/161579009/Tech+Talks+and+Trainings): various tech talks, and training materials\
 [Environments and logins](https://docs.google.com/spreadsheets/d/1rfgglp1RsgLZktJNXWiuAD2om0yjdva8S**KZvZu2F6E/edit#gid=1177611621): a document containing links to various qa and staging environments, along with login information.\
@@ -95,7 +96,7 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
 - [ ] Meet your Manager
 - [ ] Meet your Coding Buddy
 - [ ] Command Center shadowing
-- [ ] Partake in web-weekly and demo (Friday 11am - 12pm)
+- [ ] Partake in backend-weekly and demo (Friday 10:45am - 11:30am EST)
 - [ ] End of the first week meeting with your manager
 - [ ] Platform overview with Jeremiah Bowen [self-scheduled]
 - [ ] Application architecture overview with Ryan Hall [self-scheduled]
