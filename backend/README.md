@@ -87,7 +87,7 @@ If you use Mac, you are likely to need brew to install other ulitities
 Node js is the main platform we are using now
 
 **git:**
-Don't need to download anything, simply run xcode-select --install , git will be installed
+Don't need to download anything, simply run brew install git , git will be installed
 
 **gcloud:** <https://cloud.google.com/sdk/docs#install_the_latest_cloud_tools_version_cloudsdk_current_version>\
 Google Cloud cli
