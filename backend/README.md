@@ -75,6 +75,39 @@ Use your Pager credentials to login.
 **Github:** <https://github.com>\
 You will need to create a new github account tied to your pager.com email.
 
+
+### Command line utilities
+
+These are the command line utilities you will likely to need to do your job
+
+**brew:** <https://brew.sh/>\
+If you use Mac, you are likely to need brew to install other ulitities
+
+**node:** <https://nodejs.org/en/download/>\
+Node js is the main platform we are using now
+
+**git:**
+Don't need to download anything, simply run brew install git , git will be installed
+
+**gcloud:** <https://cloud.google.com/sdk/docs#install_the_latest_cloud_tools_version_cloudsdk_current_version>\
+Google Cloud cli
+
+**psql:** <https://www.postgresql.org/download/>\
+You need the psql client to run SQL query, but you are welcome to use other GUI(e.g pgadmin) if you want
+
+**mongo:** <https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/>\
+You need the mongo shell client to run mongo query, but you are welcome to use other GUI(e.g Mongo 3T) if you want
+
+**docker:** <https://docs.docker.com/docker-for-mac/install/>\
+You need the docker to run our containers
+
+**kubectl:** <https://kubernetes.io/docs/tasks/tools/install-kubectl/>\
+You need the kubectl interact with the Kubernetes cluster
+
+**sops:** <https://formulae.brew.sh/formula/sops>\
+You need the sops  to encrypt/decrypt the passwords
+
+
 ### Documentation
 Below you will find documentation that will help you gain quicker understanding about Pager, and how things are organized. If you have any questions, comments, or ideas please feel free to comment on the confluence documents, this will help us make the documentation better!
 
