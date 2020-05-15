@@ -16,10 +16,10 @@ Pager engineering consists of five squads, most of them specializing in a differ
 | Professional Services Squad (PSS) | #squad-professional-services | squad-professional-services@pager.com | [PSS backlog](https://pagerinc.atlassian.net/secure/RapidBoard.jspa?rapidView=87&projectKey=PSS&view=planning&selectedIssue=PSS-18&issueLimit=100) |
 | Platform Squad (PS) | #squad-platform | squad-platform@pager.com | [PS backlog](https://pagerinc.atlassian.net/secure/RapidBoard.jspa?rapidView=59&projectKey=PS&view=planning.nodetail&selectedIssue=PS-674&issueLimit=100) |
 
-With the exception of platform squad, each squad contains engineers from frontend (web and/or mobile), backend, machine learning/data as well as QA. Here is the [org chart](https://docs.google.com/drawings/d/14hRZNhhM9m_t88lR9jOoqDkvewiQDf3Rc0wW7n3iyDI/edit) for our squads.
+Except Platform Squad, each squad contains engineers from frontend (web and/or mobile), backend, machine learning/data as well as QA. Here is the [org chart](https://docs.google.com/drawings/d/14hRZNhhM9m_t88lR9jOoqDkvewiQDf3Rc0wW7n3iyDI/edit) for our squads.
 If interested, see [this medium article](https://medium.com/scaled-agile-framework/exploring-key-elements-of-spotifys-agile-scaling-model-471d2a23d7ea) for more information about squad structure.
 
-During your first week, you will be meeting your team members, as well as team leads, who will provide you with important overview of their respective areas of expertise.
+During your first week, you will be meeting your team members, as well as team leads, who will provide you with an important overview of their respective areas of expertise.
 
 **Your Direct Manager:** [Insert name]\
 Your manager will meet with you on your first day to welcome you to Pager, get to know you, understand your personal and professional goals. The purpose of the first meeting is to introduce you to this document, and set initial expectations. We value you and your experience at Pager. We plan to do everything at our disposal to help you grow  as you help grow us. Your manager will walk you through the [Engineering Career Ladder](https://docs.google.com/drawings/d/13-xyAbH8qmyRwgQu7hKC-5cnS6VUcb4pmUiMVIeKbYY) and your respective [Individual Contributor Performance Ruberic](https://docs.google.com/spreadsheets/d/1yoCXujJQ07FcHjKGPYO10RJM9nDKRyD9VLeJGpsZgGM/edit?usp=sharing0). You will have a second meeting with your manager at the end of your first week, to check-in on your onboarding progress and introduce you to your [30-60-90](https://docs.google.com/spreadsheets/d/1gQHA8cq6R8VS-mKz2Qe2OwoRHE8hGOsJPph4h9x9EfQ/edit?usp=sharing) day plan. Once you and your manager go through these you will also set up your weekly one on ones. 
@@ -40,16 +40,19 @@ Fabian will provide you with an overview of Android and iOS applications, as wel
 Jeremiah will provide you with a high level overview of Pager’s infrastructure, environments and platform tools as they pertain to software engineering. This is a great opportunity for you to understand the operational environment that you will be placed in.
 
 **QA Manager:** Jesmin Aktar\
-Jesmin will introduce you to her team membeoors, as well as go over the QA process. This is an excellent opportunity to make some friends in the QA team.
+Jesmin will introduce you to her team members, as well as go over the QA process. This is an excellent opportunity to make some friends in the QA team.
 
 **Director of Engineering:** Shay Weiss\
 Introductory meeting with Shay Weis. Shay will provide you with information about engineering vision and get to know you a little better.
 
 ### Tools and Processes
 
-At pager we use a number of tools that help us keep track of our work, documentation, application metrics and logs. This section lists those tools, and how to access them.
+At Pager, we use a number of tools that help us keep track of our work, documentation, application metrics and logs. This section lists those tools, and how to access them.
 
 Please make sure to enable 2FA where available.
+
+**Github:** <https://github.com>\
+You will need to create a new github account tied to your pager.com email.
 
 **Jira and Confluence:** <https://pagerinc.atlassian.net>\
 Use your Pager gmail account to login.
@@ -57,7 +60,7 @@ Use your Pager gmail account to login.
 **GoogleCloud Dashboard:** <https://console.cloud.google.com>\
 Use your Pager gmail account to login.
 
-**Sentry:** <https://sentry.pager.com/auth/login/pager/>\
+**Sentry:** <https://sentry.io/auth/login/pager-oj/>\
 Follow instructions in the invitation email to set up your password. Please make sure to set up two factor authentication.
 
 **NewRelic:** <https://login.newrelic.com/>\
@@ -69,19 +72,13 @@ Follow instructions in the invitation email to set up your password. Please make
 **MixPanel:** <https://mixpanel.com/>\
 Follow instructions in the invitation email to set up your password.
 
-**PagerDuty:** <https://pagerinc.pagerduty.com/>\
-Use your Pager credentials to login.
-
-**Github:** <https://github.com>\
-You will need to create a new github account tied to your pager.com email.
-
 
 ### Command line utilities
 
 These are the command line utilities you will likely to need to do your job
 
 **brew:** <https://brew.sh/>\
-If you use Mac, you are likely to need brew to install other ulitities
+If you use Mac, you are likely to need brew to install other utilities
 
 **node:** <https://nodejs.org/en/download/>\
 Node js is the main platform we are using now
@@ -93,10 +90,10 @@ Don't need to download anything, simply run brew install git , git will be insta
 Google Cloud cli
 
 **psql:** <https://www.postgresql.org/download/>\
-You need the psql client to run SQL query, but you are welcome to use other GUI(e.g pgadmin) if you want
+You need the psql client to run SQL query, but you are welcome to use other GUI (e.g pgadmin) if you want
 
 **mongo:** <https://docs.mongodb.com/manual/tutorial/install-mongodb-on-os-x/>\
-You need the mongo shell client to run mongo query, but you are welcome to use other GUI(e.g Mongo 3T) if you want
+You need the mongo shell client to run mongo query, but you are welcome to use other GUI (e.g Mongo 3T) if you want
 
 **docker:** <https://docs.docker.com/docker-for-mac/install/>\
 You need the docker to run our containers
@@ -115,7 +112,7 @@ Below you will find documentation that will help you gain quicker understanding 
 [Release management](https://pagerinc.atlassian.net/wiki/spaces/EN/pages/227180588/Release+Management): overview of Pager’s release process\
 [Tech talks and training](https://pagerinc.atlassian.net/wiki/spaces/EN/pages/161579009/Tech+Talks+and+Trainings): various tech talks, and training materials\
 [Environments and logins](https://docs.google.com/spreadsheets/d/1rfgglp1RsgLZktJNXWiuAD2om0yjdva8S**KZvZu2F6E/edit#gid=1177611621): a document containing links to various qa and staging environments, along with login information.\
-[Backend dev process](https://pagerinc.atlassian.net/wiki/spaces/EN/pages/101515522/Backend+Development+process): lightweight document outlining the basics of the the backend development process, branching and forking strategy and RFC process.\
+[Backend dev process](https://pagerinc.atlassian.net/wiki/spaces/EN/pages/101515522/Backend+Development+process): a lightweight document outlining the basics of the backend development process, branching and forking strategy and RFC process.\
 [Tips on tickets and tasks](https://pagerinc.atlassian.net/wiki/spaces/EN/pages/154435585/Ticket+Creation+Process): some helpful tips about ticket creation and estimation\
 
 ### What to expect and accomplish during first week
@@ -144,30 +141,28 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
 - [ ] Get access to (ask any manager in Engineering):
     - [ ] Jira
     - [ ] GitHub
-    - [ ] GoogleCloud dashboard (Terraform managed, create a PR for the right team [here](https://github.com/pagerinc/infra/blob/d6da5570959a23a27fec32d22a17bd8387a8c67d/modules/teams/main.tf))
+    - [ ] GoogleCloud dashboard (Terraform managed, create a PR (from a fork, not just cloning), adding your email to the right team [here](https://github.com/pagerinc/infra/blob/d6da5570959a23a27fec32d22a17bd8387a8c67d/modules/teams/main.tf))
     - [ ] Sentry
     - [ ] NewRelic
     - [ ] SumoLogic
     - [ ] MixPanel
-    - [ ] PagerDuty
 - [ ] Setup LastPass (IT)
 - [ ] Review frontend specific documentation
 - [ ] Download example pager app on your device (Reach out to mobile lead Fabian Celdeiro for instructions)
 - [ ] Compile a document with questions that you have
 - [ ] Make an improvement to the onboarding documentation
 - [ ] Join the following Slack channels:
-    - [ ] #chapter-backend
-    - [ ] #squad-{{your squad's name}} (i.e. #squad-consumer)
-    - [ ] #squad-mayday-{{your squad's name}} (i.e. #squad-mayday-consumer)
-    - [ ] #eng-war-room
-    - [ ] #skunkworks
-    - [ ] #product-bugs
-    - [ ] #eng-announcements
-    - [ ] #engineering
-    - [ ] #engineering-product
-    - [ ] #status
-    - [ ] #releases
-    - [ ] #nyc-office
+    - [ ] `#chapter-backend`
+    - [ ] `#squad-{{your squad's name}}` (i.e. #squad-consumer)
+    - [ ] `#squad-mayday-{{your squad's name}}` (i.e. #squad-mayday-consumer)
+    - [ ] `#eng-war-room` (private, ask to be invited)
+    - [ ] `#skunkworks`
+    - [ ] `#product-bugs`
+    - [ ] `#engineering`
+    - [ ] `#engineering-product`
+    - [ ] `#status`
+    - [ ] `#releases`
+    - [ ] `#nyc-office`
 
 
 We are excited that you are joining our team, and wish to provide you with an easy and productive onboarding experience. Should you encounter any questions or difficulties at any time, do not hesitate to reach out to your direct manager or designated coding buddy. We are here to help!
