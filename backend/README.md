@@ -108,12 +108,15 @@ You need the sops  to encrypt/decrypt the passwords
 ### Documentation
 Below you will find documentation that will help you gain quicker understanding about Pager, and how things are organized. If you have any questions, comments, or ideas please feel free to comment on the confluence documents, this will help us make the documentation better!
 
-[Pager Technology Overview](https://docs.google.com/presentation/d/1cPI4CoKAFByFV_KG2-F-eg1F6ZytK9iSaeSYDPL4Y6w) Overview of all Pager's engineering organization and technology\
-[Release management](https://pagerinc.atlassian.net/wiki/spaces/EN/pages/227180588/Release+Management): overview of Pager’s release process\
-[Tech talks and training](https://pagerinc.atlassian.net/wiki/spaces/EN/pages/161579009/Tech+Talks+and+Trainings): various tech talks, and training materials\
-[Environments and logins](https://docs.google.com/spreadsheets/d/1rfgglp1RsgLZktJNXWiuAD2om0yjdva8S**KZvZu2F6E/edit#gid=1177611621): a document containing links to various qa and staging environments, along with login information.\
-[Backend dev process](https://pagerinc.atlassian.net/wiki/spaces/EN/pages/101515522/Backend+Development+process): a lightweight document outlining the basics of the backend development process, branching and forking strategy and RFC process.\
-[Tips on tickets and tasks](https://pagerinc.atlassian.net/wiki/spaces/EN/pages/154435585/Ticket+Creation+Process): some helpful tips about ticket creation and estimation\
+- [Pager Technology Overview](https://docs.google.com/presentation/d/1cPI4CoKAFByFV_KG2-F-eg1F6ZytK9iSaeSYDPL4Y6w) Overview of all Pager's engineering organization and technology\
+- [Release management](https://pagerinc.atlassian.net/wiki/spaces/EN/pages/227180588/Release+Management): overview of Pager’s release process\
+- [Tech talks and training](https://pagerinc.atlassian.net/wiki/spaces/EN/pages/161579009/Tech+Talks+and+Trainings): various tech talks, and training materials\
+- Environments and logins: documents containing links to various qa and staging environments, along with login information.
+  - https://docs.google.com/spreadsheets/d/1rfgglp1RsgLZktJNXWiuAD2om0yjdva8S_KZvZu2F6E/
+  - https://docs.google.com/spreadsheets/d/1K8Jcpuy5c7-GK1Zr0kdk3AUdKCZby4_pEu7cK3pxlcA/
+  - https://docs.google.com/spreadsheets/d/1IxwdVQ4s799EqBr6TEN91OX8QtPcPmtqeCnneQ1Yx4s/
+- [Backend dev process](https://pagerinc.atlassian.net/wiki/spaces/EN/pages/101515522/Backend+Development+process): a lightweight document outlining the basics of the backend development process, branching and forking strategy and RFC process.\
+- [Tips on tickets and tasks](https://pagerinc.atlassian.net/wiki/spaces/EN/pages/154435585/Ticket+Creation+Process): some helpful tips about ticket creation and estimation\
 
 ### What to expect and accomplish during first week
 
