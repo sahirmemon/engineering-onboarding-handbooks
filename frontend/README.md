@@ -87,38 +87,6 @@ Follow instructions in the invitation email to set up your password. Please make
 **MixPanel:** <https://mixpanel.com/>\
 Follow instructions in the invitation email to set up your password.
 
-### Slack Channels
-At Pager, we use Slack as our instant messaging communications tool. There are a number of slack channels designated for specific purposes, including but not limited to the following: 
-
-**`web-chapter`:** 
-Channel dedicated to all things web-related. All web teams utilize this channel for news, posting Pull Requests for review, etc.
-
-**`general`:**
-Miscellaneous channel for sharing general announcements, non-work related posts, articles, memes, or other fun or informative topics not related to any specific area of Pager.
-
-**`squad-{{team name here}}`:**
-All teams have their own slack channels for sharing team related communication, meeting invites, news, etc. that start with the word "squad" followed by a hyphen and the team name. 
-
-**`skunkworks`:**
-Channel dedicated to the platform team and things related to Pager's build processes and CI/CD tools.
-
-**`nyc-office`:**
-Channel dedicated to discussing all things related to Pager's NYC office, including office news, events, closures, building maintenance items, and other information relevant to onsite employees in NYC.
-
-**`engineering-product`:**
-Channel for general announcements for the engineering and product teams. This is where work from home requests and other availability notifications are communicated to the team at large. 
-
-**`mayday`:**
-Channel where incidents from Sentry and PagerDuty are posted to track escalation and resolution.
-
-**`product-bugs`:**
-Channel to post and track production bugs
-
-**`random`:**
-Channel to post random things!
-
-**`eng-war-room`:**
-Channel used to post critical emergencies and other urgent communication. Team members should have alerts for this channel on at all times.
 
 ### Command Center Environment URLs
 There are various levels of environments used in Pager for development, testing, and production. The environment levels, from lowest to highest, are qa, staging, and production. There are also three different client versions of the site dependent on which client the site is being used for, each having their own abbreviation. Sura is abbreviated as "sra", Horizon as "hrz", and a multi-tenant client abbreviated "pgr". Pgr is a generic version used by a variety of clients. The url structure for each of these environments are as follows: 
@@ -194,29 +162,7 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
 - [ ] Sprint Retrospective meeting
 
 **Action items:**
-- [ ] Set up NPM account and get access to Pager org.
-- [ ] Set up local environments
-- [ ] Get access to (ask any manager in Engineering):
-    - [ ] Jira
-    - [ ] GitHub
-    - [ ] GoogleCloud dashboard (Terraform managed, create a PR [forking the repo], adding your email to the right team [here](https://github.com/pagerinc/infra/blob/master/modules/teams/main.tf))
-    - [ ] Sentry
-    - [ ] NewRelic
-    - [ ] SumoLogic
-    - [ ] MixPanel
 - [ ] Review frontend specific documentation
-- [ ] Download example pager app on your device (Reach out to mobile lead Fabian Celdeiro for instructions)
-- [ ] Compile a document with questions that you have
-- [ ] Make an improvement to the onboarding documentation
-- [ ] Join the following Slack channels:
-    - [ ] `#web-chapter` (private, ask to be invited)
-    - [ ] `#squad-{{your squad's name}}` (i.e. #squad-users-enterprise)
-    - [ ] `#eng-war-room` (private, ask to be invited)
-    - [ ] `#skunkworks`
-    - [ ] `#product-bugs`
-    - [ ] `#engineering`
-    - [ ] `#engineering-product` (private, ask to be invited)
-    - [ ] `#releases`
 
 We are excited that you are joining our team, and wish to provide you with an easy and productive onboarding experience. Should you encounter any questions or difficulties at any time, do not hesitate to reach out to your direct manager or designated coding buddy. We are here to help!
 
