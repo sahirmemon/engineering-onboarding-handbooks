@@ -10,7 +10,7 @@ Pager engineering consists of five squads, most of them specializing in a differ
 
 | Squad Name | Slack Channel | Email distro | JIRA Board |
 | ----- | ------ | ---- | ---- |
-| Management Enterprise (ME) | #squad-management-enterprise | squad-management-enterprise@pager.com | [ME backlog](https://pagerinc.atlassian.net/secure/RapidBoard.jspa?rapidView=64&projectKey=ME&view=planning.nodetail&issueLimit=100) |
+| Management Enterprise (ME) | #squad-management-enterprise | squad-management-enterprise@pager.com | [ME backlog](https://pagerinc.atlassian.net/secure/RapidBoard.jspa?rapidView=92&projectKey=EA&view=planning.nodetail&selectedIssue=EA-232&epics=visible&issueLimit=100) |
 | Consumer Squad (CS) | #squad-consumer | squad-consumer@pager.com | [CS backlog](https://pagerinc.atlassian.net/secure/RapidBoard.jspa?rapidView=49&view=planning.nodetail&issueLimit=100) |    
 | Users Enterprise (UE) | #squad-users-enterprise | squad-users-enterprise@pager.com | [UE backlog](https://pagerinc.atlassian.net/secure/RapidBoard.jspa?rapidView=79&projectKey=UE&view=planning&selectedIssue=UE-912&epics=visible&issueLimit=100) |    
 | Professional Services Squad (PSS) | #squad-professional-services | squad-professional-services@pager.com | [PSS backlog](https://pagerinc.atlassian.net/secure/RapidBoard.jspa?rapidView=87&projectKey=PSS&view=planning&selectedIssue=PSS-18&issueLimit=100) |
