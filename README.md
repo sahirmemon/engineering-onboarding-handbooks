@@ -36,7 +36,7 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
 - [ ] Command Center shadowing
 - [ ] Partake in chapter weekly and demo (if your chapter has demo)
 - [ ] End of the first week meeting with your manager
-- [ ] Platform overview with Jeremiah Bowen [self-scheduled]
+- [ ] Platform overview with Jeremiah Bowen [Video](https://drive.google.com/drive/folders/13k_TAydTkY4dw-U2GZB0F-mlnMsjTiUf?ths=true) [self-scheduled]
 - [ ] Application architecture overview with Ryan Hall [self-scheduled]
 - [ ] Mobile applications overview with Fabian Celdeiro [Video](https://drive.google.com/file/d/1-JCXO_VoilM6r5UomoRJ67c71LsbLI57/view?usp=sharing)
 - [ ] Introduction to QA Team with Jesmin Aktar [self-scheduled]
