@@ -38,7 +38,7 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
 - [ ] End of the first week meeting with your manager
 - [ ] Platform overview with Jeremiah Bowen [self-scheduled]
 - [ ] Application architecture overview with Ryan Hall [self-scheduled]
-- [ ] Mobile applications overview with Fabian Celdeiro [self-scheduled]
+- [ ] Mobile applications overview with Fabian Celdeiro [Video](https://drive.google.com/file/d/1-JCXO_VoilM6r5UomoRJ67c71LsbLI57/view?usp=sharing)
 - [ ] Introduction to QA Team with Jesmin Aktar [self-scheduled]
 - [ ] Sprint Planning meeting
 - [ ] Sprint Retrospective meeting
