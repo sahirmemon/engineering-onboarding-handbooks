@@ -7,6 +7,7 @@ We would like to welcome you to Pager Inc. The purpose of this onboarding handbo
 The onboarding handbook is split by domain:
  - [Backend](backend/README.md)
  - [Frontend](frontend/README.md)
+ - [QA](qa/README.md)
 
 ### Here's the common ones
 
@@ -45,8 +46,8 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
 
 **Action items:**
 - [ ] Set up NPM account and get access to Pager org (enable 2FA for Authorization and Publishing).
-- [ ] Set up local environments
-- [ ] Get access to (ask any manager in Engineering):
+- [ ] Set up local environments (see [here](https://drive.google.com/drive/folders/1UJFv_mA99LTLu82P3Pmom4yhdY_1xoJN))
+- [ ] Get access to:
     - [ ] Jira
     - [ ] Greenhouse
     - [ ] GitHub
@@ -64,23 +65,8 @@ Starting a new job can be filled with the feeling of uncertainty. Below checklis
     - [ ] #eng-war-room
     - [ ] #skunkworks
     - [ ] #product-bugs
-    - [ ] #eng-announcements
     - [ ] #engineering
-    - [ ] #engineering-product
-    - [ ] #status
     - [ ] #releases
-    - [ ] #nyc-office
 - [ ] Get yourself familiar with the high level architecture: https://whimsical.com/SB3cDuYsM689yMYNoTpGF2
 - [ ] Make your Google Calendar visible to all colleagues: https://support.google.com/calendar/answer/37082?visit_id=637257138637539347-1003588718&rd=1
-
-
-**Expectations for the first a couple months:**
-
-- [ ] Get access to the demo app in first 2 weeks (Reach out to mobile lead Fabian Celdeiro for instructions)
-- [ ] Get admin and non-admin CC user in all LL environments in the first two weeks.
-- [ ] Do a 10 minute product demo to Lead/Manager (able to join a chat as a consumer from the demo app or WebSDK, able to pick up the chat as an Enterprise User, able to explain the UI for Enterprise user (scripts, recommendations, video chat).Tip: Record for yourself for future reference.
-- [ ] Shadowing an interview in the first 30-60 days (or earliest opportunity possible if we’re not hiring for the chapter) [Non Jrs]
-- [ ] Present something you’ve done in squad Demos after at least 2 full sprint demos from joining
-- [ ] Fix at least one Critical bug and release to Production in first 60 days
-- [ ] Sentry error fix in the first 60 days
-- [ ] Release captain in first 60 days
+- [ ] Add Engineering calendar to your Google Calendar: pager.com_fsv5fvq15vq92pu4pd94j8j01g@group.calendar.google.com
