@@ -93,7 +93,7 @@ If you use Mac, you are likely to need brew to install other utilities
 Node js is the main platform we are using now
 
 **git:**
-Don't need to download anything, simply run brew install git , git will be installed
+Don't need to download anything, simply run `brew install git` , git will be installed
 
 **gcloud:** <https://cloud.google.com/sdk/docs#install_the_latest_cloud_tools_version_cloudsdk_current_version>\
 Google Cloud cli
@@ -108,10 +108,10 @@ You need the mongo shell client to run mongo query, but you are welcome to use o
 You need the docker to run our containers
 
 **kubectl:** <https://kubernetes.io/docs/tasks/tools/install-kubectl/>\
-You need the kubectl interact with the Kubernetes cluster
+You need the kubectl interact with the Kubernetes cluster. This can be installed using brew as well: `brew install kubectl`
 
 **sops:** <https://formulae.brew.sh/formula/sops>\
-You need the sops  to encrypt/decrypt the passwords
+You need the sops to encrypt/decrypt the passwords
 
 
 **Download the mobile app:**\
